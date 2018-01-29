@@ -13,15 +13,21 @@
 <p>
 Of course, you can make your server in java.<br/> 
 The socket data is simple string.<br/>
-**Example:**<br/>
-* Server accept data "daoerche 86"; 
- (username score)
-* Server send data "dxm 195 1 txc 189 2 baba 188 3 hhh 111 4 daoerche 76 5 123456 70 6 thq 38 7 daoerche 0 5"; 
- (user1 score1 1[This is Rank] user2 score2 2 ... user7 score7 7 currentUser score highestRank)
+<string>Example:</string><br/>
+<ul>
+<li>
+Server accept data "daoerche 86"; 
+<i>(username score)</i>
+</li>
+<li>
+Server send data "dxm 195 1 txc 189 2 baba 188 3 hhh 111 4 daoerche 76 5 123456 70 6 thq 38 7 daoerche 0 5"; 
+<i>(user1 score1 1[This is Rank] user2 score2 2 ... user7 score7 7 currentUser score highestRank)</i>
+</li>
 </p>
 <p>
 The project code have a sufficient number of notes. If you want you can look over code in yourself.
 </p>
+
 ### PS:
 <p>
 这是大学时期在校期间做的最后一个项目了，项目内容为‘鬼畜版坦克大战’。<br/>
