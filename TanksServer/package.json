@@ -1,0 +1,21 @@
+{
+  "name": "tanksserver",
+  "version": "1.0.0",
+  "description": "This is tanks game server",
+  "main": "Tank.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tank",
+    "java",
+    "node.js",
+    "game"
+  ],
+  "author": "daoerche",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.13.0",
+    "async": "^2.2.0"
+  }
+}
