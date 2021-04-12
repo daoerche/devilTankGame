@@ -29,9 +29,3 @@ The project code have a sufficient number of notes. If you want you can look ove
 </p>
 </ul>
 
-### PS:
-<ul>
-<li>这是大学时期在校期间做的最后一个项目了，项目内容为‘鬼畜版坦克大战’。</li>
-<li>代码不值得借鉴，写的很渣，本身不会java，只是为了完成课程设计，有需要应付作业的尽管拿去，游戏内容借鉴了别人的一个基本架构，其他的完全自己扩展写的，不存在网上一模一样，放心拿。</li>
-<li>这辈子怕是不会再写这么多java代码了。</li>
-</ul>
