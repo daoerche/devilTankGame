@@ -16,6 +16,6 @@
   "license": "ISC",
   "dependencies": {
     "mysql": "^2.13.0",
-    "async": "^2.2.0"
+    "async": "^3.2.2"
   }
 }
